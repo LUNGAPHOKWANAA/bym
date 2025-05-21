@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="startButton" type="id">start</item>
+    <item name="txtQuestion" type="id">txtQuestion</item>
+    <item name="txtFeedback" type="id">txtFeedback</item>
+    <item name="btnTrue" type="id">btnTrue</item>
+    <item name="btnFalse" type="id">btnFalse</item>
+    <item name="btnNext" type="id">btnNext</item>
+    <item name="txtScore" type="id">txtScore</item>
+    <item name="txtMessage" type="id">txtMessage</item>
+    <item name="btnExit" type="id">btnExit</item>
+    <item name="btnReview" type="id">btnReview</item>
+    <item name="txtReview" type="id">txtReview</item>
+</resources>
